@@ -3,7 +3,7 @@
 # Python solution for Leetcode
 Python solution of problems from [LeetCode](https://leetcode.com/).
 
-##### [Extra Algorithms](./Extra/)
+
 | # | Title | Solution |
 |---| ----- | -------- | 
 |1|Suffix Array|[Python](./Extra/suffix_array.py)|
