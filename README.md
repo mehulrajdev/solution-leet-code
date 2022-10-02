@@ -4,10 +4,6 @@
 Python solution of problems from [LeetCode](https://leetcode.com/).
 
 
-| # | Title | Solution |
-|---| ----- | -------- | 
-|1|Suffix Array|[Python]|
-|2|Longest Common Prefix|[Python]|
 
 ### LeetCode Algorithm
 
